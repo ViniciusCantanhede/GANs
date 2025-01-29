@@ -1,1 +1,1 @@
-### Repositório dedicado ao estudo das arquiteturas de GANs
+### Repositório dedicado ao estudo das arquiteturas de Generative Adversarial Networks (GANs)
